@@ -6,9 +6,8 @@
 <hr>
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhmd_dhiyaul)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@akhirnyaaullagi)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TgMamangHaul) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/banyu.smdr)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@ubyxx)
 <hr>
 
 ### 💻 Learning To Code:
@@ -18,7 +17,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 #### > Frameworks, Platforms & liblaries:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -34,7 +32,7 @@
 <hr>
 
 ### 📊 Github Stats:
-[![Dhiyaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=4uLmost&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![nyuuX's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyuuX&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
 ### 🎧 Now Playing [![TikTok](https://img.shields.io/badge/-%23000000.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/cx76tnjk85uaxpgm9pskf8mje):
